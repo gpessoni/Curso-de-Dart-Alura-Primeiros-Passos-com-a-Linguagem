@@ -7,7 +7,7 @@ void main() {
 
   //Além do Dart ser fortemente tipado, ele também adotou a tipagem dinâmica. Isso significa que o Dart tem a capacidade de entender o tipo de cada variável fazendo a verificação deles antes mesmo da execução terminar.
   var nome = "Gabriel";
-  print(nome);
+  print("Meu nome é ${nome}");
 
 //Não conseguimos modificar o valor da var para um outro tipo
 //Não podemos por exemplo dizer que a var nome recebe 13; pois ele recebe inicialmente uma string, não podendo mudar seu tipo
