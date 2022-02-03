@@ -11,7 +11,6 @@ void main() {
 //O tipo real, permite realizarmos operações no qual o resultado é um número quebrado
   double divisao = 5 / 2;
   print(divisao);
-
   double multiplicacao = 4.55 * 4;
   print(multiplicacao);
 }
