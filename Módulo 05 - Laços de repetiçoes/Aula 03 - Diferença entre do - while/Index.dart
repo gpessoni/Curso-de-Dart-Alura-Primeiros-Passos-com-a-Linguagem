@@ -1,13 +1,11 @@
 // Nós vimos que existem dois métodos de escrever o while. São eles:
 
 // while( condição ) {
-
 // }
 
 // e
 
 // do {
-
 // } while( condição );
 
 // Quais situações devemos utilizar um em vez do outro? Isso é uma questão de gosto, pois os dois funcionam exatamente da mesma forma. A diferença é que na forma do/while, as operações são executadas antes de a condição ser verificada, enquanto no formato em que apenas o while está presente, as operações são executadas apenas depois de a condição ser verificada.
@@ -15,7 +13,6 @@
 
 // void main() {
 //   double valor = 100;
-
 //   do {
 //     print("Esse é um comando muito perigoso. Não imprima isso!");
 //     valor = valor / 2;
@@ -28,7 +25,6 @@
 
 // void main() {
 //     double valor = 100;
-
 //     while(valor < 100){
 //         print(“Esse é um comando muito perigoso. Não imprima isso!”);
 //         valor = valor / 2;    
