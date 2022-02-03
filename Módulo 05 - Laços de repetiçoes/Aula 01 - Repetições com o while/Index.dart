@@ -3,7 +3,6 @@
 
 void main() {
   int contador = 1;
-
   while (contador < 11) {
     print("O valor do contador é ${contador}");
     contador++;
