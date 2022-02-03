@@ -11,7 +11,6 @@
 // } while( condição );
 
 // Quais situações devemos utilizar um em vez do outro? Isso é uma questão de gosto, pois os dois funcionam exatamente da mesma forma. A diferença é que na forma do/while, as operações são executadas antes de a condição ser verificada, enquanto no formato em que apenas o while está presente, as operações são executadas apenas depois de a condição ser verificada.
-
 // Isso se traduz de forma prática em programas que realizam certos tipos de operação que não deveriam, caso seja utilizado o do/while. Veja um exemplo disso:
 
 // void main() {
@@ -42,7 +41,6 @@
 
 // void main() {
 //     double valor = 100;
-
 //     do{
 //         print(“Esse é um comando muito importante. Não deixe de imprimir isso!”);
 //         valor = valor / 2;    
