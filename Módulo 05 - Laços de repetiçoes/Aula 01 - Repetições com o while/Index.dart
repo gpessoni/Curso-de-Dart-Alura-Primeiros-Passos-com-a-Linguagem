@@ -1,6 +1,6 @@
 //O laço while executa as instruções toda vez que a condição especificada for avaliada como verdadeira.
-
 //No exemplo abaixo, o programa irá escrever o contador 11 vezes(contando com o 0), pois o programa diz que o while será executado até o contador valer 10.
+
 void main() {
   int contador = 1;
 
