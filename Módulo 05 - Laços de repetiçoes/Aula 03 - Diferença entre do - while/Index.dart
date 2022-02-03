@@ -31,7 +31,6 @@
 //     }
 // }
 
-
 // Desta forma, o “comando muito perigoso” não seria executado nenhuma vez.
 // Isso não significa que o do/while seja pior que o while, pois o mesmo exemplo pode ser usado, mas com um “comando muito importante que precisa ser executado”, fazendo o do/while o comando que vai garantir que tudo funcione corretamente:
 
