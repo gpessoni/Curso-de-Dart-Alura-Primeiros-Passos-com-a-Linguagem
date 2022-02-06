@@ -17,5 +17,5 @@ You get the dart development brew and consult their documentation <a href="https
  </p>
    <p> 
 
-The Dart Basic course is available<a href="https://cursos.alura.com.br/course/dart-primeiro-passos">here</a>
+The Dart Basic course is available <a href="https://cursos.alura.com.br/course/dart-primeiro-passos">here</a>
  </p>
