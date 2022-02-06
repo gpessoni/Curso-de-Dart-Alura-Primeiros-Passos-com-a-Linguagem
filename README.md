@@ -11,9 +11,7 @@ Dart is an open source language developed in Google with the aim of allowing dev
 
 </p>
 <br>
-  <img src="https://github.com/gpessoni/Barbearia-Alura/blob/main/Images%20from%20the%20project/1.PNG?raw=true" >
-   <img src="https://github.com/gpessoni/Barbearia-Alura/blob/main/Images%20from%20the%20project/2.PNG?raw=true">
-  
+  <img src="https://www.alura.com.br/assets/api/share/curso-dart-primeiro-passos.png" >
   <p> 
 You get the dart development brew and consult their documentation <a href="https://dart.dev/">here</a>
  </p>
